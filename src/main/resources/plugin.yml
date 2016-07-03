@@ -1,0 +1,6 @@
+name: MarioBros
+author: Val'entin
+version: 1.0-SNAPSHOT
+description: Plugin Mario Bros 2D dansMinecraft
+
+main: fr.valentin.mariobros.MarioBros
